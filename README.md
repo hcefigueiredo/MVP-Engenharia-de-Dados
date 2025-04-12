@@ -1,6 +1,8 @@
 # MVP-Engenharia-de-Dados
 MVP Engenharia de Dados Hugo Figueiredo
 
+
+Link da Base: https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg?select=Olympic_Athlete_Event_Results.csv
 Link do trabalho: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3179027449756647/1154706511091136/8805629024990819/latest.html
 
 
@@ -17,6 +19,7 @@ A modelagem dos dados será feita utilizando o padrão de camadas:
 Bronze: dados brutos, exatamente como foram coletados.
 Silver: dados limpos, estruturados e organizados em tabelas com schema.
 Gold: tabelas analíticas, com métricas e agregações que facilitam a análise.
+
 As perguntas que orientam este trabalho são:
 
 Quais são os países que mais ganharam medalhas olímpicas?
